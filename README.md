@@ -1,4 +1,11 @@
 ## Hi there 👋
+### My Activity
+・![技術ブログ](https://kakuya07218.xsrv.jp/aws.cloudmemo/)
+・![JAWS](https://jawsug-nagoya.connpass.com/)
+
+### About me
+・![Wantedly](https://www.wantedly.com/id/SMYT)
+・![Engineed](https://engineed.io/auth/login?redirect=%2Fmypage)
 
 <!--
 **SMYT-BT/SMYT-BT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
