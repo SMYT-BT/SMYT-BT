@@ -4,7 +4,6 @@
 ・[JAWS](https://jawsug-nagoya.connpass.com/)
 
 ### About me
-・[Wantedly](https://www.wantedly.com/id/SMYT)
 ・[Engineed](https://engineed.io/auth/login?redirect=%2Fmypage)
 
 <!--
