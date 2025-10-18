@@ -4,6 +4,8 @@
 開発系は苦手意識があり、情報を武器とした業務改善やPM業務が好き。
 AWSとPMキャリアに悩むこの頃。
 
+ｗｗ
+
 
 ### My Activity
 ・[技術ブログ](https://kakuya07218.xsrv.jp/aws.cloudmemo/)
