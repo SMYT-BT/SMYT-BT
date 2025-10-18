@@ -8,6 +8,24 @@
 開発系は苦手意識があり、情報を武器とした業務改善やPM業務が好き。
 AWSとPMキャリアに悩むこの頃。
 
+### certification
+
+・2020/07：IT パスポート試験
+
+・2021/02：ITILファンデーションver.3
+
+・2021/09：AWS Certified Solutions Architect Associate(SAA-C02)
+
+・2022/06：AWS Certified Developer Associate(DVA-C01)
+
+・2024/04：AWS Certified SysOps Administrator Associate(SOA-C02)
+
+・2025/07：AWS Certified Solutions Architect - Professional
+
+・2025/08：Power Platform Fundamentals (PL-900)
+
+・2025/09：AWS Certified DevOps Engineer – Professional
+
 ### My Activity
 ・[技術ブログ](https://kakuya07218.xsrv.jp/aws.cloudmemo/)
 ・[JAWS](https://jawsug-nagoya.connpass.com/)
