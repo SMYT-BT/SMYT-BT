@@ -1,4 +1,11 @@
-## Hi there 👋
+## Profile 👋
+和（人生最初のダッツは抹茶）と音楽が好きな文系上がりのエンジニア。
+
+開発系は苦手意識があり、情報を武器とした業務改善やPM業務が好き。
+
+AWSとPMキャリアに悩むこの頃。
+
+
 ### My Activity
 ・[技術ブログ](https://kakuya07218.xsrv.jp/aws.cloudmemo/)
 ・[JAWS](https://jawsug-nagoya.connpass.com/)
