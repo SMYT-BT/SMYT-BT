@@ -8,7 +8,7 @@
 開発系は苦手意識があり、情報を武器とした業務改善やPM業務が好き。
 AWSとPMキャリアに悩むこの頃。
 
-### certification
+### ◆certification
 
 ・2020/07：IT パスポート試験
 
@@ -26,11 +26,11 @@ AWSとPMキャリアに悩むこの頃。
 
 ・2025/09：AWS Certified DevOps Engineer – Professional
 
-### My Activity
+### ◆My Activity
 ・[技術ブログ](https://kakuya07218.xsrv.jp/aws.cloudmemo/)
 ・[JAWS](https://jawsug-nagoya.connpass.com/)
 
-### About me
+### ◆About me
 ・[Engineed](https://engineed.io/auth/login?redirect=%2Fmypage)
 
 <!--
